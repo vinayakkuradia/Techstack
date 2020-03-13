@@ -1,0 +1,107 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px; }
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 300px; }
+
+.footer {
+  background-color:  rgb(7, 19, 24);
+  color: aliceblue;
+  margin: 0px auto;
+  padding: 20px 0px; }
+
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #0A191E;
+  color: aliceblue;
+  border-bottom: 1px ridge; }
+
+
+address {
+  font-size: 80%;
+  margin: 0px; }
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0; }
+
+.navbar-dark {
+  background-color: rgb(7, 19, 24);
+  color: aliceblue; }
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px; }
+
+.carousel {
+  background: #512DA8; }
+  .carousel .carousel-item {
+    height: 300px; }
+    .carousel .carousel-item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px; }
+
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px; }
+
+.modal-header {
+  background-color: rgb(7, 19, 24);
+  color: floralwhite; }
+  .modal-header .close {
+    color: floralwhite; }
+
+.modal-body {
+  background-color: #1e3138; }
+
+.default {
+  background-color:  #0A191E;
+  color: aliceblue;
+  font-family:'Brandon Grotesque Light';
+  font-weight:normal;
+}
+
+.btn-primary {
+  background-color: #0A191E;
+}
+
+.breadcrumb {
+  background-color: rgb(16, 43, 53);
+  color: aliceblue;
+}
+
+.card {
+  background-color: #1e3138;
+  color: aliceblue;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.contop {
+  margin-top: 45px;
+}
+
+.dockertab {
+  color: aliceblue;
+  background-color: #0A191E;
+}
+
+.q-text {
+  color: #0A191E;
+}
+
+.table {
+  color: aliceblue;
+}
